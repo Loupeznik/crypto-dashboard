@@ -1,0 +1,17 @@
+name: crypto-dashboard
+version: 0.1.0
+
+authors:
+  - Dominik Zarsky <dominik.zarsky@gmail.com>
+
+targets:
+  crypto-dashboard:
+    main: src/crypto-dashboard.cr
+
+dependencies:
+  halite:
+    github: icyleaf/halite
+
+crystal: 1.0.0
+
+license: MIT
