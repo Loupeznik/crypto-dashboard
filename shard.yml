@@ -11,6 +11,8 @@ targets:
 dependencies:
   halite:
     github: icyleaf/halite
+  tallboy:
+    github: epoch/tallboy
 
 crystal: 1.0.0
 
