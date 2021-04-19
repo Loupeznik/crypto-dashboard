@@ -1,5 +1,5 @@
 name: crypto-dashboard
-version: 0.1.0
+version: 0.9.0
 
 authors:
   - Dominik Zarsky <dominik.zarsky@gmail.com>
@@ -13,6 +13,8 @@ dependencies:
     github: icyleaf/halite
   tallboy:
     github: epoch/tallboy
+  schedule:
+    github: hugoabonizio/schedule.cr
 
 crystal: 1.0.0
 
